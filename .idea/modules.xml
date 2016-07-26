@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/lambda-hash-iterator/lambda-hash-iterator.iml" filepath="$PROJECT_DIR$/lambda-hash-iterator/lambda-hash-iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambdas.iml" filepath="$PROJECT_DIR$/lambdas.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambdas-collections/lambdas-collections.iml" filepath="$PROJECT_DIR$/lambdas-collections/lambdas-collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambdas-files/lambdas-files.iml" filepath="$PROJECT_DIR$/lambdas-files/lambdas-files.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambdas-funcionalinterfaces/lambdas-funcionalinterfaces.iml" filepath="$PROJECT_DIR$/lambdas-funcionalinterfaces/lambdas-funcionalinterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambdas-thread-runner/lambdas-thread-runner.iml" filepath="$PROJECT_DIR$/lambdas-thread-runner/lambdas-thread-runner.iml" />
     </modules>

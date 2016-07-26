@@ -13,6 +13,7 @@
         <module>lambdas-thread-runner</module>
         <module>lambda-hash-iterator</module>
         <module>lambdas-collections</module>
+        <module>lambdas-files</module>
     </modules>
 
 

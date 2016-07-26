@@ -24,6 +24,7 @@
         <processorPath useClasspath="true" />
         <module name="lambda-hash-iterator" />
         <module name="lambdas-collections" />
+        <module name="lambdas-files" />
         <module name="lambdas-funcionalinterfaces" />
         <module name="lambdas-thread-runner" />
       </profile>
@@ -32,6 +33,7 @@
       <module name="lambda-hash-iterator" target="1.8" />
       <module name="lambdas" target="1.8" />
       <module name="lambdas-collections" target="1.8" />
+      <module name="lambdas-files" target="1.8" />
       <module name="lambdas-funcionalinterfaces" target="1.8" />
       <module name="lambdas-thread-runner" target="1.8" />
     </bytecodeTargetLevel>

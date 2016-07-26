@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="89" started-at="2016-07-26T22:48:27Z" finished-at="2016-07-26T22:48:27Z">
+  <suite name="Suite1" duration-ms="69" started-at="2016-07-26T23:10:38Z" finished-at="2016-07-26T23:10:38Z">
     <groups>
     </groups>
-    <test name="Lambda Hash Iterator" duration-ms="89" started-at="2016-07-26T22:48:27Z" finished-at="2016-07-26T22:48:27Z">
+    <test name="Lambda Hash Iterator" duration-ms="69" started-at="2016-07-26T23:10:38Z" finished-at="2016-07-26T23:10:38Z">
       <class name="com.soneca.learn.java8.lambdas.Main">
-        <test-method status="PASS" signature="prepare()[pri:0, instance:com.soneca.learn.java8.lambdas.Main@45c8e616]" name="prepare" is-config="true" duration-ms="10" started-at="2016-07-26T19:48:27Z" finished-at="2016-07-26T19:48:27Z">
+        <test-method status="PASS" signature="prepare()[pri:0, instance:com.soneca.learn.java8.lambdas.Main@4563e9ab]" name="prepare" is-config="true" duration-ms="6" started-at="2016-07-26T20:10:38Z" finished-at="2016-07-26T20:10:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- prepare -->
-        <test-method status="PASS" signature="oldWay()[pri:0, instance:com.soneca.learn.java8.lambdas.Main@45c8e616]" name="oldWay" duration-ms="1" started-at="2016-07-26T19:48:27Z" finished-at="2016-07-26T19:48:27Z">
+        <test-method status="PASS" signature="oldWay()[pri:0, instance:com.soneca.learn.java8.lambdas.Main@4563e9ab]" name="oldWay" duration-ms="1" started-at="2016-07-26T20:10:38Z" finished-at="2016-07-26T20:10:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- oldWay -->
-        <test-method status="PASS" signature="newWay()[pri:0, instance:com.soneca.learn.java8.lambdas.Main@45c8e616]" name="newWay" duration-ms="65" started-at="2016-07-26T19:48:27Z" depends-on-methods="com.soneca.learn.java8.lambdas.Main.oldWay" finished-at="2016-07-26T19:48:27Z">
+        <test-method status="PASS" signature="newWay()[pri:0, instance:com.soneca.learn.java8.lambdas.Main@4563e9ab]" name="newWay" duration-ms="52" started-at="2016-07-26T20:10:38Z" depends-on-methods="com.soneca.learn.java8.lambdas.Main.oldWay" finished-at="2016-07-26T20:10:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- newWay -->

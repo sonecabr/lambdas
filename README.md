@@ -1,1 +1,1 @@
-## Lambda cases ##
+## Lambda and Streams ##

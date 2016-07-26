@@ -2,7 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ab00ffc-3cb1-4484-8e43-293adc1ec307" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-collections/src/test/java/com/soneca/learn/java8/lambdas/collections/Main.java" afterPath="$PROJECT_DIR$/lambdas-collections/src/test/java/com/soneca/learn/java8/lambdas/collections/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lambdas-files/lambdas-files.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lambdas-files/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lambdas-files/src/test/java/com/soneca/learn/java8/lambdas/files/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lambdas-files/src/test/resources/testfile.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lambdas-files/src/test/resources/testng.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-collections/target/test-classes/com/soneca/learn/java8/lambdas/collections/Main.class" afterPath="$PROJECT_DIR$/lambdas-collections/target/test-classes/com/soneca/learn/java8/lambdas/collections/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/Suite1/Lambda Hash Iterator.html" afterPath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/Suite1/Lambda Hash Iterator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/Suite1/Lambda Hash Iterator.xml" afterPath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/Suite1/Lambda Hash Iterator.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/TEST-TestSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/TestSuite.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/junitreports/TEST-com.soneca.learn.java8.lambdas.Main.xml" afterPath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/junitreports/TEST-com.soneca.learn.java8.lambdas.Main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/old/Suite1/methods-alphabetical.html" afterPath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/old/Suite1/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/old/Suite1/methods.html" afterPath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/old/Suite1/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/lambda-hash-iterator/target/surefire-reports/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-collections/lambdas-collections.iml" afterPath="$PROJECT_DIR$/lambdas-collections/lambdas-collections.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/Suite1/Lambda Functional Interfaces.html" afterPath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/Suite1/Lambda Functional Interfaces.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/Suite1/Lambda Functional Interfaces.xml" afterPath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/Suite1/Lambda Functional Interfaces.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/TEST-TestSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/TestSuite.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/junitreports/TEST-com.soneca.learn.java8.lambdas.collections.Main.xml" afterPath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/junitreports/TEST-com.soneca.learn.java8.lambdas.collections.Main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/old/Suite1/methods-alphabetical.html" afterPath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/old/Suite1/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/old/Suite1/methods.html" afterPath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/old/Suite1/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/lambdas-collections/target/surefire-reports/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/Suite1/Lambda Functional Interfaces.html" afterPath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/Suite1/Lambda Functional Interfaces.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/Suite1/Lambda Functional Interfaces.xml" afterPath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/Suite1/Lambda Functional Interfaces.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/TEST-TestSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/TestSuite.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/junitreports/TEST-com.soneca.learn.java8.lambdas.funcionalinterfaces.Main.xml" afterPath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/junitreports/TEST-com.soneca.learn.java8.lambdas.funcionalinterfaces.Main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/old/Suite1/methods-alphabetical.html" afterPath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/old/Suite1/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/old/Suite1/methods.html" afterPath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/old/Suite1/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/lambdas-funcionalinterfaces/target/surefire-reports/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/Suite1/Lambda Thread Runner.html" afterPath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/Suite1/Lambda Thread Runner.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/Suite1/Lambda Thread Runner.xml" afterPath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/Suite1/Lambda Thread Runner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/TEST-TestSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/TestSuite.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/junitreports/TEST-com.soneca.learn.java8.lambdas.threadrunner.Main.xml" afterPath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/junitreports/TEST-com.soneca.learn.java8.lambdas.threadrunner.Main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/old/Suite1/methods-alphabetical.html" afterPath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/old/Suite1/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/old/Suite1/methods.html" afterPath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/old/Suite1/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/lambdas-thread-runner/target/surefire-reports/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="lambdas.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -12,6 +63,7 @@
     <ignored path="$PROJECT_DIR$/lambdas-thread-runner/target/" />
     <ignored path="$PROJECT_DIR$/lambda-hash-iterator/target/" />
     <ignored path="$PROJECT_DIR$/lambdas-collections/target/" />
+    <ignored path="$PROJECT_DIR$/lambdas-files/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,69 +89,25 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="312">
-              <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+              <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lambdas-funcionalinterfaces/src/test/resources/testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="80" selection-start-line="5" selection-start-column="80" selection-end-line="5" selection-end-column="80" />
-              <folding />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lambdas-thread-runner/src/test/resources/testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="73" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lambdas-funcionalinterfaces/src/test/java/com/soneca/learn/java8/lambdas/funcionalinterfaces/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-533">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1011#1012#0" expanded="true" />
-                <element signature="e#1093#1094#0" expanded="true" />
-                <element signature="e#1307#1308#0" expanded="true" />
-                <element signature="e#1334#1335#0" expanded="true" />
-                <element signature="e#1542#1543#0" expanded="true" />
-                <element signature="e#1612#1613#0" expanded="true" />
-                <element signature="e#1644#1645#0" expanded="true" />
-                <element signature="e#1720#1721#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lambda-hash-iterator/src/test/resources/testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lambdas-thread-runner/src/test/java/com/soneca/learn/java8/lambdas/threadrunner/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="81" selection-start-line="12" selection-start-column="81" selection-end-line="12" selection-end-column="81" />
-              <folding />
-            </state>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -135,7 +143,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lambdas-collections/src/test/java/com/soneca/learn/java8/lambdas/collections/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="439">
@@ -143,6 +151,50 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lambdas-files/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lambdas-files/src/test/resources/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lambdas-files/src/test/java/com/soneca/learn/java8/lambdas/files/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testfile.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lambdas-files/src/test/resources/testfile.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -172,7 +224,6 @@
         <option value="$PROJECT_DIR$/lambdas-funcionalinterfaces/src/main/java/com/soneca/learn/java8/lambdas/funcionalinterfaces/Example.java" />
         <option value="$PROJECT_DIR$/lambdas-funcionalinterfaces/src/main/java/com/soneca/learn/java8/lambdas/funcionalinterfaces/References.java" />
         <option value="$PROJECT_DIR$/lambdas-funcionalinterfaces/src/main/java/com/soneca/learn/java8/lambdas/funcionalinterfaces/Test.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/lambda-hash-iterator/pom.xml" />
         <option value="$PROJECT_DIR$/lambdas-funcionalinterfaces/pom.xml" />
         <option value="$PROJECT_DIR$/lambdas-thread-runner/pom.xml" />
@@ -191,6 +242,10 @@
         <option value="$PROJECT_DIR$/lambdas-collections/src/test/resources/testng.xml" />
         <option value="$PROJECT_DIR$/lambda-hash-iterator/src/test/java/com/soneca/learn/java8/lambdas/Main.java" />
         <option value="$PROJECT_DIR$/lambdas-collections/src/test/java/com/soneca/learn/java8/lambdas/collections/Main.java" />
+        <option value="$PROJECT_DIR$/lambdas-files/src/test/resources/testfile.txt" />
+        <option value="$PROJECT_DIR$/lambdas-files/src/test/resources/testng.xml" />
+        <option value="$PROJECT_DIR$/lambdas-files/src/test/java/com/soneca/learn/java8/lambdas/files/Main.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -265,7 +320,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lambdas-collections" />
+              <option name="myItemId" value="lambdas-funcionalinterfaces" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -279,7 +334,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lambdas-collections" />
+              <option name="myItemId" value="lambdas-funcionalinterfaces" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -305,7 +360,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lambdas-collections" />
+              <option name="myItemId" value="lambdas-funcionalinterfaces" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -321,7 +376,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="collections" />
+              <option name="myItemId" value="funcionalinterfaces" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Main.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lambdas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lambdas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lambdas-files" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -335,21 +408,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lambda-hash-iterator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lambdas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lambdas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lambda-hash-iterator" />
+              <option name="myItemId" value="lambdas-files" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -360,6 +419,10 @@
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -371,7 +434,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lambda-hash-iterator" />
+              <option name="myItemId" value="lambdas-files" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -387,7 +450,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lambdas" />
+              <option name="myItemId" value="files" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -417,11 +480,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lambdas-files/src/test" />
       <recent name="$PROJECT_DIR$/lambdas-collections/src/test" />
       <recent name="$PROJECT_DIR$/lambdas-thread-runner/src/test/resources" />
       <recent name="$PROJECT_DIR$/lambdas-funcionalinterfaces/src/test/resources" />
       <recent name="$PROJECT_DIR$/lambdas-thread-runner/src/test" />
-      <recent name="$PROJECT_DIR$/lambdas-funcionalinterfaces/src/test" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.Main.groupBy">
@@ -929,26 +992,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lambdas-thread-runner/lambdas-thread-runner.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1017,14 +1060,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1112,6 +1147,70 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambdas-files/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambdas-files/src/test/resources/testfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambdas-files/src/test/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambdas-files/src/test/java/com/soneca/learn/java8/lambdas/files/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
