@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="67" started-at="2016-07-26T23:10:37Z" finished-at="2016-07-26T23:10:37Z">
+  <suite name="Suite1" duration-ms="74" started-at="2016-07-26T23:11:55Z" finished-at="2016-07-26T23:11:55Z">
     <groups>
     </groups>
-    <test name="Lambda Thread Runner" duration-ms="67" started-at="2016-07-26T23:10:37Z" finished-at="2016-07-26T23:10:37Z">
+    <test name="Lambda Thread Runner" duration-ms="74" started-at="2016-07-26T23:11:55Z" finished-at="2016-07-26T23:11:55Z">
       <class name="com.soneca.learn.java8.lambdas.threadrunner.Main">
-        <test-method status="PASS" signature="test()[pri:0, instance:com.soneca.learn.java8.lambdas.threadrunner.Main@ea4a92b]" name="test" duration-ms="57" started-at="2016-07-26T20:10:37Z" finished-at="2016-07-26T20:10:37Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.soneca.learn.java8.lambdas.threadrunner.Main@16c0663d]" name="test" duration-ms="64" started-at="2016-07-26T20:11:55Z" finished-at="2016-07-26T20:11:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->

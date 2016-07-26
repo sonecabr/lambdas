@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="104" started-at="2016-07-26T23:10:38Z" finished-at="2016-07-26T23:10:38Z">
+  <suite name="Suite1" duration-ms="106" started-at="2016-07-26T23:11:57Z" finished-at="2016-07-26T23:11:57Z">
     <groups>
     </groups>
-    <test name="Lambda Functional Interfaces" duration-ms="104" started-at="2016-07-26T23:10:38Z" finished-at="2016-07-26T23:10:38Z">
+    <test name="Lambda Functional Interfaces" duration-ms="106" started-at="2016-07-26T23:11:57Z" finished-at="2016-07-26T23:11:57Z">
       <class name="com.soneca.learn.java8.lambdas.collections.Main">
-        <test-method status="PASS" signature="prepare()[pri:0, instance:com.soneca.learn.java8.lambdas.collections.Main@4563e9ab]" name="prepare" is-config="true" duration-ms="6" started-at="2016-07-26T20:10:38Z" finished-at="2016-07-26T20:10:38Z">
+        <test-method status="PASS" signature="prepare()[pri:0, instance:com.soneca.learn.java8.lambdas.collections.Main@45c8e616]" name="prepare" is-config="true" duration-ms="7" started-at="2016-07-26T20:11:57Z" finished-at="2016-07-26T20:11:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- prepare -->
-        <test-method status="PASS" signature="forEach()[pri:0, instance:com.soneca.learn.java8.lambdas.collections.Main@4563e9ab]" name="forEach" duration-ms="56" started-at="2016-07-26T20:10:38Z" finished-at="2016-07-26T20:10:38Z">
+        <test-method status="PASS" signature="forEach()[pri:0, instance:com.soneca.learn.java8.lambdas.collections.Main@45c8e616]" name="forEach" duration-ms="58" started-at="2016-07-26T20:11:57Z" finished-at="2016-07-26T20:11:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- forEach -->
-        <test-method status="PASS" signature="filter()[pri:0, instance:com.soneca.learn.java8.lambdas.collections.Main@4563e9ab]" name="filter" duration-ms="5" started-at="2016-07-26T20:10:38Z" depends-on-methods="com.soneca.learn.java8.lambdas.collections.Main.forEach" finished-at="2016-07-26T20:10:38Z">
+        <test-method status="PASS" signature="filter()[pri:0, instance:com.soneca.learn.java8.lambdas.collections.Main@45c8e616]" name="filter" duration-ms="6" started-at="2016-07-26T20:11:57Z" depends-on-methods="com.soneca.learn.java8.lambdas.collections.Main.forEach" finished-at="2016-07-26T20:11:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- filter -->
-        <test-method status="PASS" signature="groupBy()[pri:0, instance:com.soneca.learn.java8.lambdas.collections.Main@4563e9ab]" name="groupBy" duration-ms="26" started-at="2016-07-26T20:10:38Z" depends-on-methods="com.soneca.learn.java8.lambdas.collections.Main.filter" finished-at="2016-07-26T20:10:38Z">
+        <test-method status="PASS" signature="groupBy()[pri:0, instance:com.soneca.learn.java8.lambdas.collections.Main@45c8e616]" name="groupBy" duration-ms="24" started-at="2016-07-26T20:11:57Z" depends-on-methods="com.soneca.learn.java8.lambdas.collections.Main.filter" finished-at="2016-07-26T20:11:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- groupBy -->

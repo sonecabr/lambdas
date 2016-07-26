@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="85" started-at="2016-07-26T23:10:36Z" finished-at="2016-07-26T23:10:36Z">
+  <suite name="Suite1" duration-ms="89" started-at="2016-07-26T23:11:54Z" finished-at="2016-07-26T23:11:54Z">
     <groups>
     </groups>
-    <test name="Lambda Functional Interfaces" duration-ms="85" started-at="2016-07-26T23:10:36Z" finished-at="2016-07-26T23:10:36Z">
+    <test name="Lambda Functional Interfaces" duration-ms="89" started-at="2016-07-26T23:11:54Z" finished-at="2016-07-26T23:11:54Z">
       <class name="com.soneca.learn.java8.lambdas.funcionalinterfaces.Main">
-        <test-method status="PASS" signature="testA()[pri:0, instance:com.soneca.learn.java8.lambdas.funcionalinterfaces.Main@16c0663d]" name="testA" duration-ms="61" started-at="2016-07-26T20:10:36Z" finished-at="2016-07-26T20:10:36Z">
+        <test-method status="PASS" signature="testA()[pri:0, instance:com.soneca.learn.java8.lambdas.funcionalinterfaces.Main@d7b1517]" name="testA" duration-ms="65" started-at="2016-07-26T20:11:54Z" finished-at="2016-07-26T20:11:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testA -->
-        <test-method status="PASS" signature="testB()[pri:0, instance:com.soneca.learn.java8.lambdas.funcionalinterfaces.Main@16c0663d]" name="testB" duration-ms="15" started-at="2016-07-26T20:10:36Z" finished-at="2016-07-26T20:10:36Z">
+        <test-method status="PASS" signature="testB()[pri:0, instance:com.soneca.learn.java8.lambdas.funcionalinterfaces.Main@d7b1517]" name="testB" duration-ms="14" started-at="2016-07-26T20:11:54Z" finished-at="2016-07-26T20:11:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testB -->
