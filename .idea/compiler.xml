@@ -23,11 +23,13 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="lambdas-funcionalinterfaces" />
+        <module name="lambdas-thread-runner" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="lambdas" target="1.8" />
       <module name="lambdas-funcionalinterfaces" target="1.8" />
+      <module name="lambdas-thread-runner" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

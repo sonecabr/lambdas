@@ -1,1 +1,1 @@
-## Lambda study cases ##
+## Lambda cases ##

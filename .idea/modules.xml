@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/lambdas.iml" filepath="$PROJECT_DIR$/lambdas.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambdas-funcionalinterfaces/lambdas-funcionalinterfaces.iml" filepath="$PROJECT_DIR$/lambdas-funcionalinterfaces/lambdas-funcionalinterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambdas-thread-runner/lambdas-thread-runner.iml" filepath="$PROJECT_DIR$/lambdas-thread-runner/lambdas-thread-runner.iml" />
     </modules>
   </component>
 </project>
